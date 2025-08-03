@@ -1,49 +1,66 @@
-# 👋 Hi there, I'm Vuyo Sinethe
+# 👋 Hey, I'm Vuyo Sinethe
 
-Welcome to my corner of the internet! I'm a passionate and aspiring **Software Engineer** based in 🇿🇦 South Africa. I build modern, scalable, and meaningful software — especially using **TypeScript**, **Next.js**, and **Supabase**.
-
----
-
-## 💻 Tech Stack & Tools
-
-- 🚀 Frontend: `TypeScript`, `React`, `Next.js`
-- 🧠 Backend: `Node.js`, `Next.js API routes`
-- 🗃️ Database: `Supabase`, `PostgreSQL`
-- 🌐 Web3: Worked on a couple of **decentralized apps (dApps)**
-- 📦 Dev Tools: `Vercel`, `Git`, `GitHub`, `VS Code`
+I'm a passionate and detail-oriented **Software Engineer** currently pursuing my BSc in Computer Science and Applied Mathematics at **WITS University**. I love building web applications, solving challenging problems, and exploring cutting-edge technologies like AI and cybersecurity.
 
 ---
 
-## 🌱 Currently Working On
-
-- Building educational platforms and apps (some are here on my GitHub)
-- Open to collaborating on meaningful dev projects
-- Exploring deeper backend engineering and systems design
+## 📍 Based in Johannesburg, South Africa  
+📞 +27 61 270 7020  
+📧 sinethevuyo060@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/vuyo-sinethe-827124336)  
+💻 [GitHub](https://github.com/Vuyosinethe)  
 
 ---
 
-## 🧠 My Interests
+## 💼 About Me
 
-- 🚀 Software Engineering
-- 🌍 Tech for Education & Empowerment
-- 📈 Scalable Systems
-- 🧩 Solving real-world problems with code
+- 🎓 Final-year Computer Science & Applied Mathematics student at WITS University
+- 👨‍💻 Experienced in both frontend & backend web development
+- 🧠 Strong foundation in algorithms, data structures, and software design
+- 🤝 Collaborator, problem-solver, and fast learner
+
+---
+
+## 🔧 Technical Skills
+
+**Languages:** Python, Java, JavaScript, TypeScript, C++, C#, HTML, CSS  
+**Frameworks:** React, Express.js, Node.js  
+**Databases:** MySQL, Firebase, Supabase, Azure  
+**Tools:** GitHub, VS Code, Postman, Docker  
+**Other:** REST APIs, Unit Testing (Jest), Responsive Design, Agile/Scrum  
+**Maths & Applied Knowledge:** Linear Algebra, Optimization, Mechanics, AI Fundamentals
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Hackathon Winner** – 1st place at RoboCup Coding Competition: Programmed autonomous soccer-playing robots using decision-making algorithms  
+- 🤖 **Deep Learning Indaba X 2024 Attendee** – Selected to join top candidates for an exclusive AI & deep learning conference at WITS  
+- 🔐 **CTF Participant** – Competed in WITS Cybersecurity Capture-the-Flag, applying real-world ethical hacking techniques  
+
+---
+
+## 🚀 Projects
+
+You’ll find projects across education, backend systems, and automation on my profile — many built using **Next.js**, **TypeScript**, and **Supabase**.  
+> Most projects are self-initiated or part of hackathons and may need **funding** to scale further.
+
+---
+
+## 🌱 Interests
+
+- Machine Learning & AI  
+- Cybersecurity & Ethical Hacking  
+- Full-Stack Development  
+- Optimization & Applied Mathematics  
+- Soccer and Coding Challenges ⚽💻
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/vuyo-sinethe-8b7446306)  
-- 📬 Email: sinethevuyo060@gmail.com 
-- 💡 Interested in collaborating, hiring, or supporting my projects? Don’t hesitate to reach out.
+I'm open to **internships**, **freelance gigs**, or **full-time opportunities**.  
+If you're working on something meaningful or want to collaborate — I’d love to hear from you!
 
 ---
-
-## ☕ Support My Work
-
-Some of the projects here require **funding** to scale. If you’re passionate about tech and education, I’d love to chat.
-
----
-
-Thanks for stopping by! 🌟  
-_“The future belongs to those who code it.”_
+_“Code with purpose. Build with impact.”_
